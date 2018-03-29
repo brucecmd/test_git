@@ -1,1 +1,2 @@
-print('new_branch hello')
+print('merged without conflict hello')
+
